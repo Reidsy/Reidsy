@@ -31,8 +31,12 @@ An overview of what change is being made and why it is being made. Include thing
 
 # QA
 
-- Yes or No
-- If Yes, who?
+- Does this need manual testing?
+- Who should manually test this?
+
+# Open Questions
+
+- What information do we not know that is needed to complete this story?
 
 
 
