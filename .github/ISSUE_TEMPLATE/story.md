@@ -13,7 +13,7 @@ An overview of what change is being made and why it is being made. Include thing
 - Relevant pieces of code, api's or libraries that may be used or required
 
 
-# Action items
+# Acceptance Criteria
 
 - Bulleted list of criteria that we can use to detemermine when this story is finished 
 
