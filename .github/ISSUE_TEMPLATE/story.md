@@ -15,7 +15,7 @@ An overview of what change is being made and why it is being made. Include thing
 
 # Acceptance Criteria
 
-- Bulleted list of criteria that we can use to detemermine when this story is finished 
+- Bulleted list of criteria that we can use to determine when this story is finished 
 
 
 # Technical Details
@@ -33,6 +33,7 @@ An overview of what change is being made and why it is being made. Include thing
 
 - Does this need manual testing?
 - Who should manually test this?
+
 
 # Open Questions
 
